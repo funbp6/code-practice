@@ -1,2 +1,2 @@
-# computer-programming
+# code practice
 programming code
