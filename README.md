@@ -1,3 +1,3 @@
 # code practice
-programming code\n
+programming code  
 程式設計程式 \- c\+\+ 
